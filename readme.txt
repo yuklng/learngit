@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software.
-20170424 3
+20170424
